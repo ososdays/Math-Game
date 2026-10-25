@@ -26,11 +26,11 @@ It focuses on building a clean, organized, and maintainable application.
 📸 Screenshots
 
 
-##Game Settings
+## Game Settings
 ![Game Settings](Screenshots/s1.png)
-##Rounds UI
+## Rounds UI
 ![Rounds UI](Screenshots/s2.png)
-##Final Results
+## Final Results
 ![Final Results](Screenshots/s3.png)
 
 
