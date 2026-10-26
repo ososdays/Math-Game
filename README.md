@@ -1,47 +1,47 @@
-Math Game
+# Math Game
 
 A game where you choose the difficulty level and the type of mathematical operation, then solve a series of math problems.
 
-📌 Overview
+## 📌 Overview
 
 This project was developed to practice fundamental C++ concepts such as enums, loops, functions and procedures, input and output streams, variables, and functional programming, focusing on the Divide and Conquer strategy.
 
 It focuses on building a clean, organized, and maintainable application.
 
-✨ Features
+## ✨ Features
 
-- When starting a game, the system asks you to choose the number of rounds and the question difficulty, which has three levels: Easy, Normal, and Hard.
-- You then choose the type of mathematical operation you will face. You can choose between addition, subtraction, division, and multiplication, or select Mixed to include all the operations mentioned above.
+- When starting a game, the system asks you to choose the number of rounds and the question difficulty, which has three levels: **Easy**, **Normal**, and **Hard**.
+- You then choose the type of mathematical operation you will face. You can choose between addition, subtraction, division, and multiplication, or select **Mixed** to include all the operations mentioned above.
 - When you answer correctly, the screen turns green and displays a success message. If you answer incorrectly, the screen turns red and displays an error message along with the correct answer.
 - After all rounds are completed, the system calculates the number of correct and incorrect answers and determines your final result.
 - The system handles division by zero smoothly.
 - The system asks the user whether they want to play again and restarts the game if they do.
 - The project practices the Divide and Conquer strategy, in which each simple task is implemented in a separate method.
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 
-- Language: C++
-- IDE: Visual Studio
+- **Language:** C++
+- **IDE:** Visual Studio
 
-📸 Screenshots
+## 📸 Screenshots
 
 
-## Game Settings
+#### Game Settings
 ![Game Settings](Screenshots/s1.png)
-## Rounds UI
+#### Rounds UI
 ![Rounds UI](Screenshots/s2.png)
-## Final Results
+#### Final Results
 ![Final Results](Screenshots/s3.png)
 
 
 🚀 Getting Started
 
-Prerequisites
+## Prerequisites
 
 - Visual Studio
 - Git (optional)
 
-Installation
+## Installation
 
 1. Clone the repository:
    
@@ -53,7 +53,7 @@ Installation
 
 3. Build and run the project.
 
-🧠 Concepts Practiced
+## 🧠 Concepts Practiced
 
 - Functional programming
 - Fundamental C++ concepts and data structures
@@ -61,7 +61,7 @@ Installation
 - Input validation
 - Handling mathematical calculations and edge cases
 
-📂 Project Structure
+## 📂 Project Structure
 
 Math Game/
 ├── Screenshots/
@@ -75,12 +75,12 @@ Math Game/
 ├── LICENSE.txt
 └── README.md
 
-👨‍💻 Author
+## 👨‍💻 Author
 
 Osama Arafat
 
 - GitHub: "@ososdays" (https://github.com/ososdays)
 
-📄 License
+## 📄 License
 
 This project is licensed under the MIT License.
